@@ -3,13 +3,12 @@
 ![Logo](https://github.com/user-attachments/assets/b3658115-b873-4067-86d5-60b2265d593f)
  <!-- Add a link to your logo if available -->
 
-HackPages is a community-driven platform where Hack Club members can create, submit, and share digital books. These books can range from personal coding journeys to innovative guides on learning programming. Our mission is to inspire others in the Hack Club community by showcasing unique stories and creative coding content.
+HackPages is a website where Hack Clubbers can create and share digital books about their coding journey.
 
 ## 🚀 Features
 
-- **Book Creation**: Members can create digital books that document their coding experiences or teach programming in novel ways.
+- **Book Creation**: Members can create digital books that document their coding experiences.
 - **Community Sharing**: Once a book is published on HackPages, it's available for the entire Hack Club community to read and learn from.
-- **Innovative Content**: The platform encourages new ideas and creative approaches to learning coding, making it a valuable resource for both beginners and experienced developers.
 
 ## 🛠️ How It Works
 
