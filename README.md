@@ -12,7 +12,7 @@ HackPages is a website where Hack Clubbers can create and share digital books ab
 
 ## 🛠️ How It Works
 
-1. **Create a Book**: Write and design your digital book, including stories, tutorials, code snippets, and more.
+1. **Create a Book**: Write and design your digital book, including stories.
 2. **Submit Your Book**: Upload your finished book in PDF format to the HackPages website.
 3. **Share and Inspire**: Once approved, your book will be published on HackPages, where others can read and get inspired by your work.
 
